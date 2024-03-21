@@ -1,12 +1,15 @@
 # Sentiment Analysis of IMDB Movie Reviews Using Classification Models
 
-*See notebook for code*
+*See below notebook for code*
+
+https://github.com/ohovey1/movie_sentiment_analysis/blob/main/ml_models.ipynb
 
 ## Introduction:
 This project involved sentiment analysis of IMDB movie reviews using various machine
 learning classification models. A dataset of IMDB reviews and their associated sentiments
 were used to train the models and make predictions about natural language sentiment in the
 context of movie reviews. This project was broken down into the following sections:
+
 1. Data Exploration (EDA)
 2. Data Preprocessing
 3. Data Modelling
