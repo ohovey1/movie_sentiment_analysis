@@ -1,5 +1,7 @@
 # Sentiment Analysis of IMDB Movie Reviews Using Classification Models
 
+*See notebook for code*
+
 ## Introduction:
 This project involved sentiment analysis of IMDB movie reviews using various machine
 learning classification models. A dataset of IMDB reviews and their associated sentiments
