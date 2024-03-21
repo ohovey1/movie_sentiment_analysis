@@ -84,7 +84,8 @@ Here are the accuracy results for each of the models:
 
 With the top 5 performing similarly, followed by a drop off in performance for the KNN
 models.
-Additional Feature
+
+## User Testing:
 To allow for user testing, we allow the user to input their own reviews. The following user
 inputted prompts were tested on the following models:
 
